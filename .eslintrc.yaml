@@ -1,4 +1,4 @@
-extends: 
+extends:
   - eslint:all
 parserOptions:
   ecmaVersion: 6
@@ -94,3 +94,4 @@ rules:
     - inside
   multiline-ternary: off
   sort-keys: off
+  linebreak-style: 0
